@@ -1,0 +1,17 @@
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\bin\Debug\youtubeMP3.exe.config
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\bin\Debug\youtubeMP3.exe
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\bin\Debug\youtubeMP3.pdb
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\bin\Debug\Guna.UI.dll
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\bin\Debug\Guna.UI.pdb
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\obj\Debug\youtubeMP3.csprojAssemblyReference.cache
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\obj\Debug\youtubeMP3.Form1.resources
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\obj\Debug\youtubeMP3.Properties.Resources.resources
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\obj\Debug\youtubeMP3.csproj.GenerateResource.cache
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\obj\Debug\youtubeMP3.csproj.CopyComplete
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\obj\Debug\youtubeMP3.exe
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\obj\Debug\youtubeMP3.pdb
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\bin\Debug\libvideo.dll
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abdul Hajiyev\source\repos\youtubeMP3\youtubeMP3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
